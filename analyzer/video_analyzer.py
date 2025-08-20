@@ -74,15 +74,15 @@ def analyze_video(path, out_dir="output"):
                 if frame_idx < fps * 3:
                     put_checks(frame, checks)
 
-                cv2.imshow("frame", frame)
+                # cv2.imshow("frame", frame)
                 out.write(frame)
 
-                key = cv2.waitKey(1) & 0xFF
-                if key == ord('q'):
-                    break
-                elif key == ord('p'):
-                    while cv2.waitKey(1) != ord('p'):
-                        pass
+                # key = cv2.waitKey(1) & 0xFF
+                # if key == ord('q'):
+                #     break
+                # elif key == ord('p'):
+                #     while cv2.waitKey(1) != ord('p'):
+                #         pass
 
     cap.release()
     out.release()
