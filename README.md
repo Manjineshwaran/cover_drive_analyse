@@ -1,5 +1,3 @@
-﻿# cover_drive_analyse
-
 # Cricket Cover Drive Analysis
 
 ![Cover Drive Analysis](https://img.shields.io/badge/Status-Active-brightgreen)
@@ -117,3 +115,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - OpenCV for computer vision capabilities
 - All contributors who helped improve this project
 #
+
