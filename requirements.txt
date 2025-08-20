@@ -3,5 +3,6 @@ opencv-python>=4.8.1
 numpy>=1.21.0
 mediapipe==0.10.5
 dotenv
+pydantic_settings
 langchain_google_genai
 langchain
