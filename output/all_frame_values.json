@@ -1,0 +1,6539 @@
+[
+  {
+    "frame_idx": 1,
+    "metrics": [
+      {
+        "elbow_angle:": 158.2901771271717
+      },
+      {
+        "spine_angle:": 10.433699501782076
+      },
+      {
+        "head_knee_dist:": 28.390731811523438
+      },
+      {
+        "foot_angle:": 15.144865001212027
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 2,
+    "metrics": [
+      {
+        "elbow_angle:": 150.62335506426737
+      },
+      {
+        "spine_angle:": 11.091940521945256
+      },
+      {
+        "head_knee_dist:": 32.7013635635376
+      },
+      {
+        "foot_angle:": 27.201032878460005
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 3,
+    "metrics": [
+      {
+        "elbow_angle:": 145.10409229506362
+      },
+      {
+        "spine_angle:": 11.569003458906149
+      },
+      {
+        "head_knee_dist:": 32.53648281097412
+      },
+      {
+        "foot_angle:": 37.42116663606811
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 4,
+    "metrics": [
+      {
+        "elbow_angle:": 138.93680906180896
+      },
+      {
+        "spine_angle:": 11.739405539427876
+      },
+      {
+        "head_knee_dist:": 33.07833194732666
+      },
+      {
+        "foot_angle:": 36.89683478443047
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 5,
+    "metrics": [
+      {
+        "elbow_angle:": 137.69943726627773
+      },
+      {
+        "spine_angle:": 12.471430207592734
+      },
+      {
+        "head_knee_dist:": 33.50757122039795
+      },
+      {
+        "foot_angle:": 37.07404378220771
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 6,
+    "metrics": [
+      {
+        "elbow_angle:": 135.979042611168
+      },
+      {
+        "spine_angle:": 12.75440348849256
+      },
+      {
+        "head_knee_dist:": 33.211541175842285
+      },
+      {
+        "foot_angle:": 39.69553402629492
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 7,
+    "metrics": [
+      {
+        "elbow_angle:": 139.50621999857964
+      },
+      {
+        "spine_angle:": 12.823496634031196
+      },
+      {
+        "head_knee_dist:": 33.12403678894043
+      },
+      {
+        "foot_angle:": 37.99768473522849
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 8,
+    "metrics": [
+      {
+        "elbow_angle:": 141.72894024783827
+      },
+      {
+        "spine_angle:": 12.826038695602938
+      },
+      {
+        "head_knee_dist:": 33.452210426330566
+      },
+      {
+        "foot_angle:": 33.83704050180868
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 9,
+    "metrics": [
+      {
+        "elbow_angle:": 144.95329607284629
+      },
+      {
+        "spine_angle:": 12.784501994726591
+      },
+      {
+        "head_knee_dist:": 33.55125904083252
+      },
+      {
+        "foot_angle:": 31.24554717169611
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 10,
+    "metrics": [
+      {
+        "elbow_angle:": 141.5143521017369
+      },
+      {
+        "spine_angle:": 12.70987956840888
+      },
+      {
+        "head_knee_dist:": 34.209280014038086
+      },
+      {
+        "foot_angle:": 25.10252675616045
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 11,
+    "metrics": [
+      {
+        "elbow_angle:": 139.09477139771306
+      },
+      {
+        "spine_angle:": 12.64079865925417
+      },
+      {
+        "head_knee_dist:": 34.760870933532715
+      },
+      {
+        "foot_angle:": 23.156037874458768
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 12,
+    "metrics": [
+      {
+        "elbow_angle:": 137.34463081013826
+      },
+      {
+        "spine_angle:": 12.685762339002606
+      },
+      {
+        "head_knee_dist:": 35.05604267120361
+      },
+      {
+        "foot_angle:": 22.23426652693957
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 13,
+    "metrics": [
+      {
+        "elbow_angle:": 140.2685076175054
+      },
+      {
+        "spine_angle:": 13.225976299692194
+      },
+      {
+        "head_knee_dist:": 35.82770347595215
+      },
+      {
+        "foot_angle:": 19.218711674955028
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 14,
+    "metrics": [
+      {
+        "elbow_angle:": 141.69342905613408
+      },
+      {
+        "spine_angle:": 13.779514531577808
+      },
+      {
+        "head_knee_dist:": 35.91988563537598
+      },
+      {
+        "foot_angle:": 21.91958096466918
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 15,
+    "metrics": [
+      {
+        "elbow_angle:": 143.23476423882403
+      },
+      {
+        "spine_angle:": 13.941138280686452
+      },
+      {
+        "head_knee_dist:": 36.026058197021484
+      },
+      {
+        "foot_angle:": 23.741017088723808
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 16,
+    "metrics": [
+      {
+        "elbow_angle:": 145.22509899438376
+      },
+      {
+        "spine_angle:": 14.304793178019768
+      },
+      {
+        "head_knee_dist:": 36.17922306060791
+      },
+      {
+        "foot_angle:": 24.757736012071923
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 17,
+    "metrics": [
+      {
+        "elbow_angle:": 152.2426816484557
+      },
+      {
+        "spine_angle:": 14.300319405924673
+      },
+      {
+        "head_knee_dist:": 36.28037452697754
+      },
+      {
+        "foot_angle:": 25.619160490463848
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 18,
+    "metrics": [
+      {
+        "elbow_angle:": 156.53039570007172
+      },
+      {
+        "spine_angle:": 14.243921191327455
+      },
+      {
+        "head_knee_dist:": 36.31728172302246
+      },
+      {
+        "foot_angle:": 15.197523890764819
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 19,
+    "metrics": [
+      {
+        "elbow_angle:": 159.0891607262533
+      },
+      {
+        "spine_angle:": 14.203104044965311
+      },
+      {
+        "head_knee_dist:": 36.2713623046875
+      },
+      {
+        "foot_angle:": 18.66603998331354
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 20,
+    "metrics": [
+      {
+        "elbow_angle:": 160.3824696246768
+      },
+      {
+        "spine_angle:": 14.3266883532538
+      },
+      {
+        "head_knee_dist:": 36.41469955444336
+      },
+      {
+        "foot_angle:": 20.197305534501737
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 21,
+    "metrics": [
+      {
+        "elbow_angle:": 158.16580452579802
+      },
+      {
+        "spine_angle:": 14.450774954534381
+      },
+      {
+        "head_knee_dist:": 36.23612880706787
+      },
+      {
+        "foot_angle:": 21.906842070718223
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 22,
+    "metrics": [
+      {
+        "elbow_angle:": 155.02732423794936
+      },
+      {
+        "spine_angle:": 14.462789056696401
+      },
+      {
+        "head_knee_dist:": 35.64359664916992
+      },
+      {
+        "foot_angle:": 10.993293700810158
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 23,
+    "metrics": [
+      {
+        "elbow_angle:": 153.12709607381507
+      },
+      {
+        "spine_angle:": 14.446178409664984
+      },
+      {
+        "head_knee_dist:": 35.53201675415039
+      },
+      {
+        "foot_angle:": 7.648404896338198
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 24,
+    "metrics": [
+      {
+        "elbow_angle:": 152.29026966037236
+      },
+      {
+        "spine_angle:": 14.401316631516547
+      },
+      {
+        "head_knee_dist:": 35.2646541595459
+      },
+      {
+        "foot_angle:": 16.395298642562043
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 25,
+    "metrics": [
+      {
+        "elbow_angle:": 152.02958780474978
+      },
+      {
+        "spine_angle:": 14.334541545142267
+      },
+      {
+        "head_knee_dist:": 35.14599323272705
+      },
+      {
+        "foot_angle:": 9.627310466115313
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 26,
+    "metrics": [
+      {
+        "elbow_angle:": 152.1054777314056
+      },
+      {
+        "spine_angle:": 14.218174125321951
+      },
+      {
+        "head_knee_dist:": 35.53360462188721
+      },
+      {
+        "foot_angle:": 17.168432277112466
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 27,
+    "metrics": [
+      {
+        "elbow_angle:": 152.2055068455772
+      },
+      {
+        "spine_angle:": 14.144453388602374
+      },
+      {
+        "head_knee_dist:": 35.64561367034912
+      },
+      {
+        "foot_angle:": 9.315895535141411
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 28,
+    "metrics": [
+      {
+        "elbow_angle:": 152.29382177150643
+      },
+      {
+        "spine_angle:": 14.098368481007602
+      },
+      {
+        "head_knee_dist:": 35.76547622680664
+      },
+      {
+        "foot_angle:": 6.360953957822582
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 29,
+    "metrics": [
+      {
+        "elbow_angle:": 152.35230491783682
+      },
+      {
+        "spine_angle:": 14.05163523194795
+      },
+      {
+        "head_knee_dist:": 35.893235206604004
+      },
+      {
+        "foot_angle:": 5.422283966394081
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 30,
+    "metrics": [
+      {
+        "elbow_angle:": 152.40580327173515
+      },
+      {
+        "spine_angle:": 13.995552396158127
+      },
+      {
+        "head_knee_dist:": 36.06369495391846
+      },
+      {
+        "foot_angle:": 5.169314297142549
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 31,
+    "metrics": [
+      {
+        "elbow_angle:": 152.4584394130777
+      },
+      {
+        "spine_angle:": 13.969492524630734
+      },
+      {
+        "head_knee_dist:": 36.143388748168945
+      },
+      {
+        "foot_angle:": 5.113301182487074
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 32,
+    "metrics": [
+      {
+        "elbow_angle:": 152.492592884162
+      },
+      {
+        "spine_angle:": 13.936128880307578
+      },
+      {
+        "head_knee_dist:": 36.183857917785645
+      },
+      {
+        "foot_angle:": 5.066504957733585
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 33,
+    "metrics": [
+      {
+        "elbow_angle:": 152.60752023044643
+      },
+      {
+        "spine_angle:": 13.923744152402227
+      },
+      {
+        "head_knee_dist:": 36.2184476852417
+      },
+      {
+        "foot_angle:": 4.971572514279165
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 34,
+    "metrics": [
+      {
+        "elbow_angle:": 152.65054597710056
+      },
+      {
+        "spine_angle:": 13.916070796755093
+      },
+      {
+        "head_knee_dist:": 36.2638521194458
+      },
+      {
+        "foot_angle:": 4.89317532855336
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 35,
+    "metrics": [
+      {
+        "elbow_angle:": 152.74883012076089
+      },
+      {
+        "spine_angle:": 13.896210324712461
+      },
+      {
+        "head_knee_dist:": 36.30007266998291
+      },
+      {
+        "foot_angle:": 4.814965348081641
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 36,
+    "metrics": [
+      {
+        "elbow_angle:": 152.79636099974752
+      },
+      {
+        "spine_angle:": 13.89894678595988
+      },
+      {
+        "head_knee_dist:": 36.3358211517334
+      },
+      {
+        "foot_angle:": 4.7461091626568
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 37,
+    "metrics": [
+      {
+        "elbow_angle:": 152.93827223229505
+      },
+      {
+        "spine_angle:": 13.91362709463649
+      },
+      {
+        "head_knee_dist:": 36.35234355926514
+      },
+      {
+        "foot_angle:": 4.764310691847059
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 38,
+    "metrics": [
+      {
+        "elbow_angle:": 153.19748127289245
+      },
+      {
+        "spine_angle:": 13.954184388299844
+      },
+      {
+        "head_knee_dist:": 36.2609338760376
+      },
+      {
+        "foot_angle:": 4.8136258681159205
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 39,
+    "metrics": [
+      {
+        "elbow_angle:": 153.7405563822396
+      },
+      {
+        "spine_angle:": 13.971156139206494
+      },
+      {
+        "head_knee_dist:": 36.100172996520996
+      },
+      {
+        "foot_angle:": 4.890012410499681
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 40,
+    "metrics": [
+      {
+        "elbow_angle:": 154.47633959986936
+      },
+      {
+        "spine_angle:": 13.98108329027301
+      },
+      {
+        "head_knee_dist:": 36.10626697540283
+      },
+      {
+        "foot_angle:": 4.998261181486139
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 41,
+    "metrics": [
+      {
+        "elbow_angle:": 155.09285667722884
+      },
+      {
+        "spine_angle:": 13.990122895282623
+      },
+      {
+        "head_knee_dist:": 36.07090473175049
+      },
+      {
+        "foot_angle:": 5.159971649413663
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 42,
+    "metrics": [
+      {
+        "elbow_angle:": 155.67447988642732
+      },
+      {
+        "spine_angle:": 13.985007313241486
+      },
+      {
+        "head_knee_dist:": 36.04270935058594
+      },
+      {
+        "foot_angle:": 5.399570478838071
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 43,
+    "metrics": [
+      {
+        "elbow_angle:": 156.20253393174585
+      },
+      {
+        "spine_angle:": 13.9763147666987
+      },
+      {
+        "head_knee_dist:": 36.073007583618164
+      },
+      {
+        "foot_angle:": 5.608233724840475
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 44,
+    "metrics": [
+      {
+        "elbow_angle:": 156.546996193169
+      },
+      {
+        "spine_angle:": 13.968519900023644
+      },
+      {
+        "head_knee_dist:": 36.131930351257324
+      },
+      {
+        "foot_angle:": 5.651380593893657
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 45,
+    "metrics": [
+      {
+        "elbow_angle:": 156.79493017608135
+      },
+      {
+        "spine_angle:": 13.952786057027003
+      },
+      {
+        "head_knee_dist:": 36.21123790740967
+      },
+      {
+        "foot_angle:": 5.674248965244021
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 46,
+    "metrics": [
+      {
+        "elbow_angle:": 156.9485901320093
+      },
+      {
+        "spine_angle:": 13.94737265308429
+      },
+      {
+        "head_knee_dist:": 36.35526180267334
+      },
+      {
+        "foot_angle:": 5.771206390197213
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 47,
+    "metrics": [
+      {
+        "elbow_angle:": 157.11933873668335
+      },
+      {
+        "spine_angle:": 13.938561556725166
+      },
+      {
+        "head_knee_dist:": 36.456027030944824
+      },
+      {
+        "foot_angle:": 5.850813212590657
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 48,
+    "metrics": [
+      {
+        "elbow_angle:": 157.24740669361665
+      },
+      {
+        "spine_angle:": 13.931100220999356
+      },
+      {
+        "head_knee_dist:": 36.48877143859863
+      },
+      {
+        "foot_angle:": 5.894130677425016
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 49,
+    "metrics": [
+      {
+        "elbow_angle:": 157.38338851185753
+      },
+      {
+        "spine_angle:": 13.92267581375361
+      },
+      {
+        "head_knee_dist:": 36.56275749206543
+      },
+      {
+        "foot_angle:": 5.938738214621998
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 50,
+    "metrics": [
+      {
+        "elbow_angle:": 157.499380318815
+      },
+      {
+        "spine_angle:": 13.919530828516336
+      },
+      {
+        "head_knee_dist:": 36.63841724395752
+      },
+      {
+        "foot_angle:": 5.959986066616394
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 51,
+    "metrics": [
+      {
+        "elbow_angle:": 157.6655211427892
+      },
+      {
+        "spine_angle:": 13.921020767791314
+      },
+      {
+        "head_knee_dist:": 36.68210506439209
+      },
+      {
+        "foot_angle:": 5.985251490059654
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 52,
+    "metrics": [
+      {
+        "elbow_angle:": 157.8076781114363
+      },
+      {
+        "spine_angle:": 13.912805525280953
+      },
+      {
+        "head_knee_dist:": 36.71330451965332
+      },
+      {
+        "foot_angle:": 6.008844572605546
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 53,
+    "metrics": [
+      {
+        "elbow_angle:": 157.98139537123075
+      },
+      {
+        "spine_angle:": 13.918014770298573
+      },
+      {
+        "head_knee_dist:": 36.73004150390625
+      },
+      {
+        "foot_angle:": 6.026621369140072
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 54,
+    "metrics": [
+      {
+        "elbow_angle:": 158.14191780542734
+      },
+      {
+        "spine_angle:": 13.927752692608015
+      },
+      {
+        "head_knee_dist:": 36.81540012359619
+      },
+      {
+        "foot_angle:": 6.041733777764235
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 55,
+    "metrics": [
+      {
+        "elbow_angle:": 158.2537499462929
+      },
+      {
+        "spine_angle:": 13.959607455495075
+      },
+      {
+        "head_knee_dist:": 36.95483207702637
+      },
+      {
+        "foot_angle:": 6.047503532939705
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 56,
+    "metrics": [
+      {
+        "elbow_angle:": 158.40361133614226
+      },
+      {
+        "spine_angle:": 13.986165549886412
+      },
+      {
+        "head_knee_dist:": 37.15009689331055
+      },
+      {
+        "foot_angle:": 6.035557775686885
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 57,
+    "metrics": [
+      {
+        "elbow_angle:": 158.54272041057706
+      },
+      {
+        "spine_angle:": 14.014335447856327
+      },
+      {
+        "head_knee_dist:": 37.35574722290039
+      },
+      {
+        "foot_angle:": 4.929264309490488
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 58,
+    "metrics": [
+      {
+        "elbow_angle:": 158.7457497924667
+      },
+      {
+        "spine_angle:": 14.059643730587933
+      },
+      {
+        "head_knee_dist:": 37.461276054382324
+      },
+      {
+        "foot_angle:": 5.019928398657632
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 59,
+    "metrics": [
+      {
+        "elbow_angle:": 158.97458121657573
+      },
+      {
+        "spine_angle:": 14.077768070813628
+      },
+      {
+        "head_knee_dist:": 37.43634223937988
+      },
+      {
+        "foot_angle:": 5.237964554741812
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 60,
+    "metrics": [
+      {
+        "elbow_angle:": 159.3140896727226
+      },
+      {
+        "spine_angle:": 14.094323621839443
+      },
+      {
+        "head_knee_dist:": 37.23270893096924
+      },
+      {
+        "foot_angle:": 5.433473051888074
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 61,
+    "metrics": [
+      {
+        "elbow_angle:": 133.02160846402703
+      },
+      {
+        "spine_angle:": 16.863527184967012
+      },
+      {
+        "head_knee_dist:": 43.74309539794922
+      },
+      {
+        "foot_angle:": 25.461612727533836
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 62,
+    "metrics": [
+      {
+        "elbow_angle:": 103.26392580612274
+      },
+      {
+        "spine_angle:": 16.98541976783066
+      },
+      {
+        "head_knee_dist:": 43.494229316711426
+      },
+      {
+        "foot_angle:": 19.56872693408999
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 63,
+    "metrics": [
+      {
+        "elbow_angle:": 110.09414159362422
+      },
+      {
+        "spine_angle:": 17.77003394366578
+      },
+      {
+        "head_knee_dist:": 45.701537132263184
+      },
+      {
+        "foot_angle:": 25.693530341193153
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 64,
+    "metrics": [
+      {
+        "elbow_angle:": 114.16255900420566
+      },
+      {
+        "spine_angle:": 17.484023325504793
+      },
+      {
+        "head_knee_dist:": 41.01827144622803
+      },
+      {
+        "foot_angle:": 30.098747884713223
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 65,
+    "metrics": [
+      {
+        "elbow_angle:": 118.0673609779477
+      },
+      {
+        "spine_angle:": 18.065727990215148
+      },
+      {
+        "head_knee_dist:": 41.548705101013184
+      },
+      {
+        "foot_angle:": 32.27767606356186
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 66,
+    "metrics": [
+      {
+        "elbow_angle:": 117.31217614979123
+      },
+      {
+        "spine_angle:": 18.385471170427234
+      },
+      {
+        "head_knee_dist:": 45.144667625427246
+      },
+      {
+        "foot_angle:": 31.20325949497226
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 67,
+    "metrics": [
+      {
+        "elbow_angle:": 105.41246244672841
+      },
+      {
+        "spine_angle:": 18.30747610122564
+      },
+      {
+        "head_knee_dist:": 42.35898971557617
+      },
+      {
+        "foot_angle:": 33.03569095860535
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 68,
+    "metrics": [
+      {
+        "elbow_angle:": 99.7900149181408
+      },
+      {
+        "spine_angle:": 18.32524059145924
+      },
+      {
+        "head_knee_dist:": 39.81986045837402
+      },
+      {
+        "foot_angle:": 27.998452289233256
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 69,
+    "metrics": [
+      {
+        "elbow_angle:": 94.89920728750826
+      },
+      {
+        "spine_angle:": 18.401820492907618
+      },
+      {
+        "head_knee_dist:": 39.55580234527588
+      },
+      {
+        "foot_angle:": 37.91120856519016
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 70,
+    "metrics": [
+      {
+        "elbow_angle:": 98.98418368366461
+      },
+      {
+        "spine_angle:": 18.53714466339603
+      },
+      {
+        "head_knee_dist:": 40.488953590393066
+      },
+      {
+        "foot_angle:": 40.35016101890337
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 71,
+    "metrics": [
+      {
+        "elbow_angle:": 103.58629566415969
+      },
+      {
+        "spine_angle:": 18.696460658019305
+      },
+      {
+        "head_knee_dist:": 41.98283672332764
+      },
+      {
+        "foot_angle:": 30.734469491756183
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 72,
+    "metrics": [
+      {
+        "elbow_angle:": 108.33733573265437
+      },
+      {
+        "spine_angle:": 18.65463487383796
+      },
+      {
+        "head_knee_dist:": 43.80751132965088
+      },
+      {
+        "foot_angle:": 21.59261030605847
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 73,
+    "metrics": [
+      {
+        "elbow_angle:": 115.51213345965428
+      },
+      {
+        "spine_angle:": 18.731832808545093
+      },
+      {
+        "head_knee_dist:": 44.86885070800781
+      },
+      {
+        "foot_angle:": 31.841234054576713
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 74,
+    "metrics": [
+      {
+        "elbow_angle:": 118.4747459921754
+      },
+      {
+        "spine_angle:": 18.864494090430508
+      },
+      {
+        "head_knee_dist:": 45.174193382263184
+      },
+      {
+        "foot_angle:": 33.725575714947716
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 75,
+    "metrics": [
+      {
+        "elbow_angle:": 120.20807075941794
+      },
+      {
+        "spine_angle:": 19.01443243707548
+      },
+      {
+        "head_knee_dist:": 45.4414701461792
+      },
+      {
+        "foot_angle:": 35.908859292914876
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 76,
+    "metrics": [
+      {
+        "elbow_angle:": 121.04088449030014
+      },
+      {
+        "spine_angle:": 19.139809437614996
+      },
+      {
+        "head_knee_dist:": 45.85667610168457
+      },
+      {
+        "foot_angle:": 36.50006204523862
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 77,
+    "metrics": [
+      {
+        "elbow_angle:": 123.23589674102814
+      },
+      {
+        "spine_angle:": 19.267495108996087
+      },
+      {
+        "head_knee_dist:": 46.321234703063965
+      },
+      {
+        "foot_angle:": 36.55591990406628
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 78,
+    "metrics": [
+      {
+        "elbow_angle:": 124.66529218432453
+      },
+      {
+        "spine_angle:": 19.40006987864726
+      },
+      {
+        "head_knee_dist:": 47.01616287231445
+      },
+      {
+        "foot_angle:": 36.330656326047475
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 79,
+    "metrics": [
+      {
+        "elbow_angle:": 127.04295984354339
+      },
+      {
+        "spine_angle:": 19.464484215080667
+      },
+      {
+        "head_knee_dist:": 47.897043228149414
+      },
+      {
+        "foot_angle:": 36.126381836119236
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 80,
+    "metrics": [
+      {
+        "elbow_angle:": 128.74005570919252
+      },
+      {
+        "spine_angle:": 19.436256604960306
+      },
+      {
+        "head_knee_dist:": 48.63325595855713
+      },
+      {
+        "foot_angle:": 35.93891931705299
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 81,
+    "metrics": [
+      {
+        "elbow_angle:": 129.72726024031127
+      },
+      {
+        "spine_angle:": 19.456772544602632
+      },
+      {
+        "head_knee_dist:": 49.07893180847168
+      },
+      {
+        "foot_angle:": 35.877455097695844
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 82,
+    "metrics": [
+      {
+        "elbow_angle:": 126.69153957102051
+      },
+      {
+        "spine_angle:": 19.50785299161455
+      },
+      {
+        "head_knee_dist:": 48.949713706970215
+      },
+      {
+        "foot_angle:": 35.860034528620446
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 83,
+    "metrics": [
+      {
+        "elbow_angle:": 124.52538097591933
+      },
+      {
+        "spine_angle:": 19.602728483898662
+      },
+      {
+        "head_knee_dist:": 49.12987232208252
+      },
+      {
+        "foot_angle:": 35.823709952185084
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 84,
+    "metrics": [
+      {
+        "elbow_angle:": 123.44743401202058
+      },
+      {
+        "spine_angle:": 19.64200488217876
+      },
+      {
+        "head_knee_dist:": 49.24192428588867
+      },
+      {
+        "foot_angle:": 22.138759309433205
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 85,
+    "metrics": [
+      {
+        "elbow_angle:": 123.3338335716454
+      },
+      {
+        "spine_angle:": 19.555140004341805
+      },
+      {
+        "head_knee_dist:": 49.48289394378662
+      },
+      {
+        "foot_angle:": 26.51425927114421
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 86,
+    "metrics": [
+      {
+        "elbow_angle:": 123.5778912384924
+      },
+      {
+        "spine_angle:": 19.603697675525957
+      },
+      {
+        "head_knee_dist:": 49.91831302642822
+      },
+      {
+        "foot_angle:": 17.65464727961228
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 87,
+    "metrics": [
+      {
+        "elbow_angle:": 126.57516347770063
+      },
+      {
+        "spine_angle:": 19.55312489361536
+      },
+      {
+        "head_knee_dist:": 50.351715087890625
+      },
+      {
+        "foot_angle:": 14.436657286184124
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 88,
+    "metrics": [
+      {
+        "elbow_angle:": 126.92145439337672
+      },
+      {
+        "spine_angle:": 19.530199482894954
+      },
+      {
+        "head_knee_dist:": 50.675597190856934
+      },
+      {
+        "foot_angle:": 13.151532268093097
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 89,
+    "metrics": [
+      {
+        "elbow_angle:": 129.25695345285962
+      },
+      {
+        "spine_angle:": 19.51657015834197
+      },
+      {
+        "head_knee_dist:": 50.949482917785645
+      },
+      {
+        "foot_angle:": 12.638819443077129
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 90,
+    "metrics": [
+      {
+        "elbow_angle:": 132.38142476888564
+      },
+      {
+        "spine_angle:": 19.528280555997146
+      },
+      {
+        "head_knee_dist:": 51.12856864929199
+      },
+      {
+        "foot_angle:": 12.548498694325668
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 91,
+    "metrics": [
+      {
+        "elbow_angle:": 134.23682820293016
+      },
+      {
+        "spine_angle:": 19.577353923999794
+      },
+      {
+        "head_knee_dist:": 51.35735034942627
+      },
+      {
+        "foot_angle:": 12.00629894341504
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 92,
+    "metrics": [
+      {
+        "elbow_angle:": 135.90362828962162
+      },
+      {
+        "spine_angle:": 19.6467884499538
+      },
+      {
+        "head_knee_dist:": 51.48176193237305
+      },
+      {
+        "foot_angle:": 11.566338412908449
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 93,
+    "metrics": [
+      {
+        "elbow_angle:": 136.68854222459407
+      },
+      {
+        "spine_angle:": 19.710125410344666
+      },
+      {
+        "head_knee_dist:": 51.83825969696045
+      },
+      {
+        "foot_angle:": 10.920388884121166
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 94,
+    "metrics": [
+      {
+        "elbow_angle:": 137.29068697470728
+      },
+      {
+        "spine_angle:": 19.764514041860572
+      },
+      {
+        "head_knee_dist:": 52.00451374053955
+      },
+      {
+        "foot_angle:": 10.514933151339557
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 95,
+    "metrics": [
+      {
+        "elbow_angle:": 137.9343785526428
+      },
+      {
+        "spine_angle:": 19.850603316242463
+      },
+      {
+        "head_knee_dist:": 52.009921073913574
+      },
+      {
+        "foot_angle:": 10.393503568904222
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 96,
+    "metrics": [
+      {
+        "elbow_angle:": 138.95175368174236
+      },
+      {
+        "spine_angle:": 19.90722971944128
+      },
+      {
+        "head_knee_dist:": 52.02507019042969
+      },
+      {
+        "foot_angle:": 10.045103191652862
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "True",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 97,
+    "metrics": [
+      {
+        "elbow_angle:": 141.17887556526043
+      },
+      {
+        "spine_angle:": 19.968487599998337
+      },
+      {
+        "head_knee_dist:": 52.08077430725098
+      },
+      {
+        "foot_angle:": 9.639800931504066
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 98,
+    "metrics": [
+      {
+        "elbow_angle:": 142.7438695910473
+      },
+      {
+        "spine_angle:": 19.999012875481338
+      },
+      {
+        "head_knee_dist:": 52.47053146362305
+      },
+      {
+        "foot_angle:": 9.131624747288118
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "True",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 99,
+    "metrics": [
+      {
+        "elbow_angle:": 143.52327929336232
+      },
+      {
+        "spine_angle:": 20.041525369987657
+      },
+      {
+        "head_knee_dist:": 52.90685176849365
+      },
+      {
+        "foot_angle:": 8.736781800505712
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 100,
+    "metrics": [
+      {
+        "elbow_angle:": 143.55697497764893
+      },
+      {
+        "spine_angle:": 20.06847294094507
+      },
+      {
+        "head_knee_dist:": 53.46792697906494
+      },
+      {
+        "foot_angle:": 8.306895598869458
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 101,
+    "metrics": [
+      {
+        "elbow_angle:": 143.3185320441554
+      },
+      {
+        "spine_angle:": 20.08873322305653
+      },
+      {
+        "head_knee_dist:": 53.74992370605469
+      },
+      {
+        "foot_angle:": 7.931745248440835
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 102,
+    "metrics": [
+      {
+        "elbow_angle:": 143.62505555673997
+      },
+      {
+        "spine_angle:": 20.104948123441417
+      },
+      {
+        "head_knee_dist:": 53.768935203552246
+      },
+      {
+        "foot_angle:": 7.7785168554619215
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 103,
+    "metrics": [
+      {
+        "elbow_angle:": 143.7943561288808
+      },
+      {
+        "spine_angle:": 20.123799008930945
+      },
+      {
+        "head_knee_dist:": 53.75382900238037
+      },
+      {
+        "foot_angle:": 7.594827580500111
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 104,
+    "metrics": [
+      {
+        "elbow_angle:": 143.77245839155916
+      },
+      {
+        "spine_angle:": 20.154968147033166
+      },
+      {
+        "head_knee_dist:": 53.755974769592285
+      },
+      {
+        "foot_angle:": 17.68753454770946
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 105,
+    "metrics": [
+      {
+        "elbow_angle:": 143.80211103516956
+      },
+      {
+        "spine_angle:": 20.184407514747924
+      },
+      {
+        "head_knee_dist:": 53.75035285949707
+      },
+      {
+        "foot_angle:": 22.138455767804707
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 106,
+    "metrics": [
+      {
+        "elbow_angle:": 143.87005598917045
+      },
+      {
+        "spine_angle:": 20.21189355214294
+      },
+      {
+        "head_knee_dist:": 53.72138500213623
+      },
+      {
+        "foot_angle:": 24.05282424971209
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 107,
+    "metrics": [
+      {
+        "elbow_angle:": 143.96651609452746
+      },
+      {
+        "spine_angle:": 20.230900226975848
+      },
+      {
+        "head_knee_dist:": 53.6777400970459
+      },
+      {
+        "foot_angle:": 25.263390204814876
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 108,
+    "metrics": [
+      {
+        "elbow_angle:": 143.84650658804696
+      },
+      {
+        "spine_angle:": 20.26195559968102
+      },
+      {
+        "head_knee_dist:": 53.61049175262451
+      },
+      {
+        "foot_angle:": 25.774656919100682
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 109,
+    "metrics": [
+      {
+        "elbow_angle:": 139.75764417282232
+      },
+      {
+        "spine_angle:": 20.311428806008802
+      },
+      {
+        "head_knee_dist:": 53.56727600097656
+      },
+      {
+        "foot_angle:": 25.82157288727092
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 110,
+    "metrics": [
+      {
+        "elbow_angle:": 140.12385284010483
+      },
+      {
+        "spine_angle:": 20.342792552199253
+      },
+      {
+        "head_knee_dist:": 53.128037452697754
+      },
+      {
+        "foot_angle:": 25.960345717333425
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 111,
+    "metrics": [
+      {
+        "elbow_angle:": 137.7939180380404
+      },
+      {
+        "spine_angle:": 20.361314147032804
+      },
+      {
+        "head_knee_dist:": 52.61472702026367
+      },
+      {
+        "foot_angle:": 12.572073523456641
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 112,
+    "metrics": [
+      {
+        "elbow_angle:": 136.47654265438072
+      },
+      {
+        "spine_angle:": 20.386876293549324
+      },
+      {
+        "head_knee_dist:": 52.09686756134033
+      },
+      {
+        "foot_angle:": 8.431356851686134
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 113,
+    "metrics": [
+      {
+        "elbow_angle:": 135.7781309106061
+      },
+      {
+        "spine_angle:": 20.403381107281287
+      },
+      {
+        "head_knee_dist:": 51.51017189025879
+      },
+      {
+        "foot_angle:": 7.2648259732157765
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 114,
+    "metrics": [
+      {
+        "elbow_angle:": 135.31379095278896
+      },
+      {
+        "spine_angle:": 20.43244176761058
+      },
+      {
+        "head_knee_dist:": 50.93759536743164
+      },
+      {
+        "foot_angle:": 7.0212491054051265
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 115,
+    "metrics": [
+      {
+        "elbow_angle:": 134.85884333191467
+      },
+      {
+        "spine_angle:": 20.46124410183346
+      },
+      {
+        "head_knee_dist:": 50.05843162536621
+      },
+      {
+        "foot_angle:": 7.24818742569314
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 116,
+    "metrics": [
+      {
+        "elbow_angle:": 133.10899978682625
+      },
+      {
+        "spine_angle:": 20.50286287672498
+      },
+      {
+        "head_knee_dist:": 48.940744400024414
+      },
+      {
+        "foot_angle:": 7.570038936478049
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "False",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 117,
+    "metrics": [
+      {
+        "elbow_angle:": 131.69608403352146
+      },
+      {
+        "spine_angle:": 20.55939761250084
+      },
+      {
+        "head_knee_dist:": 48.485283851623535
+      },
+      {
+        "foot_angle:": 8.103891059182407
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "False",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 118,
+    "metrics": [
+      {
+        "elbow_angle:": 130.70072381719365
+      },
+      {
+        "spine_angle:": 20.63631549886636
+      },
+      {
+        "head_knee_dist:": 48.19933891296387
+      },
+      {
+        "foot_angle:": 8.572427972000801
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "False",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 119,
+    "metrics": [
+      {
+        "elbow_angle:": 129.90619687858708
+      },
+      {
+        "spine_angle:": 20.73278690486248
+      },
+      {
+        "head_knee_dist:": 48.0096960067749
+      },
+      {
+        "foot_angle:": 9.05571221179734
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "False",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 120,
+    "metrics": [
+      {
+        "elbow_angle:": 129.1992847591879
+      },
+      {
+        "spine_angle:": 20.860247576171005
+      },
+      {
+        "head_knee_dist:": 47.91790008544922
+      },
+      {
+        "foot_angle:": 9.465199099903355
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "True",
+      "balance_ok": "False",
+      "elbow_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 121,
+    "metrics": [
+      {
+        "elbow_angle:": 94.65651923842928
+      },
+      {
+        "spine_angle:": 26.028128170835387
+      },
+      {
+        "head_knee_dist:": 70.87567806243896
+      },
+      {
+        "foot_angle:": 40.5632054457576
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 122,
+    "metrics": [
+      {
+        "elbow_angle:": 82.05766357947053
+      },
+      {
+        "spine_angle:": 26.710040864164508
+      },
+      {
+        "head_knee_dist:": 65.97787857055664
+      },
+      {
+        "foot_angle:": 16.25516671528284
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 123,
+    "metrics": [
+      {
+        "elbow_angle:": 81.17797504530189
+      },
+      {
+        "spine_angle:": 26.750181098531016
+      },
+      {
+        "head_knee_dist:": 79.77164268493652
+      },
+      {
+        "foot_angle:": 58.235523024903806
+      }
+    ],
+    "checks": {
+      "foot_ok": "False",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 124,
+    "metrics": [
+      {
+        "elbow_angle:": 58.91892860193729
+      },
+      {
+        "spine_angle:": 26.150201077312776
+      },
+      {
+        "head_knee_dist:": 81.45147800445557
+      },
+      {
+        "foot_angle:": 96.60784694218046
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 125,
+    "metrics": [
+      {
+        "elbow_angle:": 58.26414548611583
+      },
+      {
+        "spine_angle:": 26.00542457408024
+      },
+      {
+        "head_knee_dist:": 82.75374412536621
+      },
+      {
+        "foot_angle:": 75.31396291172575
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 126,
+    "metrics": [
+      {
+        "elbow_angle:": 53.155025399917
+      },
+      {
+        "spine_angle:": 24.354230140770426
+      },
+      {
+        "head_knee_dist:": 84.75286960601807
+      },
+      {
+        "foot_angle:": 80.21231052849348
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 127,
+    "metrics": [
+      {
+        "elbow_angle:": 76.44518857704766
+      },
+      {
+        "spine_angle:": 25.30228942452631
+      },
+      {
+        "head_knee_dist:": 84.06377792358398
+      },
+      {
+        "foot_angle:": 77.22933869758863
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 128,
+    "metrics": [
+      {
+        "elbow_angle:": 86.59274292254749
+      },
+      {
+        "spine_angle:": 25.89781550432873
+      },
+      {
+        "head_knee_dist:": 84.48971271514893
+      },
+      {
+        "foot_angle:": 69.23077222304079
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 129,
+    "metrics": [
+      {
+        "elbow_angle:": 81.99747693230698
+      },
+      {
+        "spine_angle:": 26.20664858509258
+      },
+      {
+        "head_knee_dist:": 83.71633529663086
+      },
+      {
+        "foot_angle:": 70.39876889200708
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 130,
+    "metrics": [
+      {
+        "elbow_angle:": 57.69267034411322
+      },
+      {
+        "spine_angle:": 25.871933697144605
+      },
+      {
+        "head_knee_dist:": 82.62272357940674
+      },
+      {
+        "foot_angle:": 73.29941446611794
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 131,
+    "metrics": [
+      {
+        "elbow_angle:": 78.16962607337966
+      },
+      {
+        "spine_angle:": 26.289850556267453
+      },
+      {
+        "head_knee_dist:": 82.25914478302002
+      },
+      {
+        "foot_angle:": 73.76835921855739
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 132,
+    "metrics": [
+      {
+        "elbow_angle:": 79.34309407494453
+      },
+      {
+        "spine_angle:": 25.836062984131445
+      },
+      {
+        "head_knee_dist:": 82.98707485198975
+      },
+      {
+        "foot_angle:": 75.75731251920958
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 133,
+    "metrics": [
+      {
+        "elbow_angle:": 81.16057190748924
+      },
+      {
+        "spine_angle:": 26.438491151122992
+      },
+      {
+        "head_knee_dist:": 82.65430927276611
+      },
+      {
+        "foot_angle:": 71.19050953528289
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 134,
+    "metrics": [
+      {
+        "elbow_angle:": 78.31991342006697
+      },
+      {
+        "spine_angle:": 26.273413201718878
+      },
+      {
+        "head_knee_dist:": 84.89148616790771
+      },
+      {
+        "foot_angle:": 80.71929084558145
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 135,
+    "metrics": [
+      {
+        "elbow_angle:": 77.01852993146217
+      },
+      {
+        "spine_angle:": 26.226817807342936
+      },
+      {
+        "head_knee_dist:": 85.71194171905518
+      },
+      {
+        "foot_angle:": 84.03241031402806
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 136,
+    "metrics": [
+      {
+        "elbow_angle:": 76.56340877943325
+      },
+      {
+        "spine_angle:": 26.251429603746786
+      },
+      {
+        "head_knee_dist:": 86.28524780273438
+      },
+      {
+        "foot_angle:": 86.91286277127197
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 137,
+    "metrics": [
+      {
+        "elbow_angle:": 76.77881152534452
+      },
+      {
+        "spine_angle:": 26.18242827263839
+      },
+      {
+        "head_knee_dist:": 87.25075721740723
+      },
+      {
+        "foot_angle:": 91.17065745121734
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 138,
+    "metrics": [
+      {
+        "elbow_angle:": 76.96029394954829
+      },
+      {
+        "spine_angle:": 26.158258541527168
+      },
+      {
+        "head_knee_dist:": 87.68274307250977
+      },
+      {
+        "foot_angle:": 92.34809913129676
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 139,
+    "metrics": [
+      {
+        "elbow_angle:": 79.88407130056218
+      },
+      {
+        "spine_angle:": 25.549933583243554
+      },
+      {
+        "head_knee_dist:": 88.92046451568604
+      },
+      {
+        "foot_angle:": 83.36501549410352
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 140,
+    "metrics": [
+      {
+        "elbow_angle:": 81.24908773932906
+      },
+      {
+        "spine_angle:": 25.50017936607884
+      },
+      {
+        "head_knee_dist:": 89.71251010894775
+      },
+      {
+        "foot_angle:": 79.26235059072013
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 141,
+    "metrics": [
+      {
+        "elbow_angle:": 81.91977340644877
+      },
+      {
+        "spine_angle:": 25.609817280843526
+      },
+      {
+        "head_knee_dist:": 90.15084743499756
+      },
+      {
+        "foot_angle:": 77.69987315506128
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 142,
+    "metrics": [
+      {
+        "elbow_angle:": 81.16547414217715
+      },
+      {
+        "spine_angle:": 25.6400067663902
+      },
+      {
+        "head_knee_dist:": 90.27714729309082
+      },
+      {
+        "foot_angle:": 76.15915714444425
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 143,
+    "metrics": [
+      {
+        "elbow_angle:": 81.19000822014054
+      },
+      {
+        "spine_angle:": 25.72467701941335
+      },
+      {
+        "head_knee_dist:": 90.3197193145752
+      },
+      {
+        "foot_angle:": 75.70055121916882
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 144,
+    "metrics": [
+      {
+        "elbow_angle:": 80.56758222096532
+      },
+      {
+        "spine_angle:": 25.822918190939948
+      },
+      {
+        "head_knee_dist:": 90.44949531555176
+      },
+      {
+        "foot_angle:": 75.52306157821492
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 145,
+    "metrics": [
+      {
+        "elbow_angle:": 80.50790461574498
+      },
+      {
+        "spine_angle:": 25.81472221104404
+      },
+      {
+        "head_knee_dist:": 90.48017978668213
+      },
+      {
+        "foot_angle:": 75.2753888821288
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 146,
+    "metrics": [
+      {
+        "elbow_angle:": 80.51633075270722
+      },
+      {
+        "spine_angle:": 25.871103032159077
+      },
+      {
+        "head_knee_dist:": 90.47314167022705
+      },
+      {
+        "foot_angle:": 74.96976302212508
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 147,
+    "metrics": [
+      {
+        "elbow_angle:": 86.58620863786828
+      },
+      {
+        "spine_angle:": 26.023182974290577
+      },
+      {
+        "head_knee_dist:": 90.45713424682617
+      },
+      {
+        "foot_angle:": 80.18885373140546
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 148,
+    "metrics": [
+      {
+        "elbow_angle:": 86.34108503419284
+      },
+      {
+        "spine_angle:": 26.058772618009105
+      },
+      {
+        "head_knee_dist:": 90.16385078430176
+      },
+      {
+        "foot_angle:": 77.57869853308524
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 149,
+    "metrics": [
+      {
+        "elbow_angle:": 86.2687790473016
+      },
+      {
+        "spine_angle:": 26.082753182675408
+      },
+      {
+        "head_knee_dist:": 89.86794948577881
+      },
+      {
+        "foot_angle:": 76.38662205097755
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 150,
+    "metrics": [
+      {
+        "elbow_angle:": 86.17316836057628
+      },
+      {
+        "spine_angle:": 26.11507003120087
+      },
+      {
+        "head_knee_dist:": 89.79331970214844
+      },
+      {
+        "foot_angle:": 76.45785301367367
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 151,
+    "metrics": [
+      {
+        "elbow_angle:": 81.35049729822998
+      },
+      {
+        "spine_angle:": 26.145333489374742
+      },
+      {
+        "head_knee_dist:": 89.57724094390869
+      },
+      {
+        "foot_angle:": 76.43294898196105
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 152,
+    "metrics": [
+      {
+        "elbow_angle:": 78.96667055129595
+      },
+      {
+        "spine_angle:": 26.170495476707078
+      },
+      {
+        "head_knee_dist:": 89.2800521850586
+      },
+      {
+        "foot_angle:": 76.46326347657539
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 153,
+    "metrics": [
+      {
+        "elbow_angle:": 77.10196180078401
+      },
+      {
+        "spine_angle:": 26.214439236865797
+      },
+      {
+        "head_knee_dist:": 89.02839660644531
+      },
+      {
+        "foot_angle:": 76.24859255196071
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 154,
+    "metrics": [
+      {
+        "elbow_angle:": 77.23917597751243
+      },
+      {
+        "spine_angle:": 26.238212144719466
+      },
+      {
+        "head_knee_dist:": 88.9409351348877
+      },
+      {
+        "foot_angle:": 76.16370063640672
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 155,
+    "metrics": [
+      {
+        "elbow_angle:": 77.5830722887116
+      },
+      {
+        "spine_angle:": 26.253312568651236
+      },
+      {
+        "head_knee_dist:": 88.88149738311768
+      },
+      {
+        "foot_angle:": 76.11305632456856
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 156,
+    "metrics": [
+      {
+        "elbow_angle:": 77.79376338945389
+      },
+      {
+        "spine_angle:": 26.270717394317746
+      },
+      {
+        "head_knee_dist:": 88.8449764251709
+      },
+      {
+        "foot_angle:": 75.97653174681166
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 157,
+    "metrics": [
+      {
+        "elbow_angle:": 77.89238381467501
+      },
+      {
+        "spine_angle:": 26.285197133191843
+      },
+      {
+        "head_knee_dist:": 88.81296157836914
+      },
+      {
+        "foot_angle:": 75.88692018679188
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 158,
+    "metrics": [
+      {
+        "elbow_angle:": 77.70395376622372
+      },
+      {
+        "spine_angle:": 26.28498447855475
+      },
+      {
+        "head_knee_dist:": 88.75549793243408
+      },
+      {
+        "foot_angle:": 75.77190209925425
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 159,
+    "metrics": [
+      {
+        "elbow_angle:": 77.89384730908883
+      },
+      {
+        "spine_angle:": 26.32130520255707
+      },
+      {
+        "head_knee_dist:": 88.71979236602783
+      },
+      {
+        "foot_angle:": 75.34623674368895
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 160,
+    "metrics": [
+      {
+        "elbow_angle:": 78.0881760612474
+      },
+      {
+        "spine_angle:": 26.358789704313537
+      },
+      {
+        "head_knee_dist:": 88.68700504302979
+      },
+      {
+        "foot_angle:": 75.14229083748668
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 161,
+    "metrics": [
+      {
+        "elbow_angle:": 78.19859963254103
+      },
+      {
+        "spine_angle:": 26.374543152099065
+      },
+      {
+        "head_knee_dist:": 88.66726398468018
+      },
+      {
+        "foot_angle:": 75.26450517450417
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 162,
+    "metrics": [
+      {
+        "elbow_angle:": 78.19786289608197
+      },
+      {
+        "spine_angle:": 26.41137595903252
+      },
+      {
+        "head_knee_dist:": 88.66537570953369
+      },
+      {
+        "foot_angle:": 75.61073392131959
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 163,
+    "metrics": [
+      {
+        "elbow_angle:": 78.25775547036545
+      },
+      {
+        "spine_angle:": 26.460262764569517
+      },
+      {
+        "head_knee_dist:": 88.67430210113525
+      },
+      {
+        "foot_angle:": 76.05145827436525
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 164,
+    "metrics": [
+      {
+        "elbow_angle:": 78.40625574205576
+      },
+      {
+        "spine_angle:": 26.46387176589934
+      },
+      {
+        "head_knee_dist:": 88.67189884185791
+      },
+      {
+        "foot_angle:": 76.35002130581648
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 165,
+    "metrics": [
+      {
+        "elbow_angle:": 78.26441545695431
+      },
+      {
+        "spine_angle:": 26.465305009023073
+      },
+      {
+        "head_knee_dist:": 88.6700963973999
+      },
+      {
+        "foot_angle:": 76.68127447262106
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 166,
+    "metrics": [
+      {
+        "elbow_angle:": 78.13100804855208
+      },
+      {
+        "spine_angle:": 26.45139443612952
+      },
+      {
+        "head_knee_dist:": 88.67125511169434
+      },
+      {
+        "foot_angle:": 77.09295763224769
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 167,
+    "metrics": [
+      {
+        "elbow_angle:": 78.08142890840142
+      },
+      {
+        "spine_angle:": 26.45015994191454
+      },
+      {
+        "head_knee_dist:": 88.66996765136719
+      },
+      {
+        "foot_angle:": 77.26015149465948
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 168,
+    "metrics": [
+      {
+        "elbow_angle:": 78.09470049798816
+      },
+      {
+        "spine_angle:": 26.44154671153636
+      },
+      {
+        "head_knee_dist:": 88.6737871170044
+      },
+      {
+        "foot_angle:": 77.40223627216261
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 169,
+    "metrics": [
+      {
+        "elbow_angle:": 78.01640341396569
+      },
+      {
+        "spine_angle:": 26.425204370687123
+      },
+      {
+        "head_knee_dist:": 88.67305755615234
+      },
+      {
+        "foot_angle:": 77.55074928631385
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 170,
+    "metrics": [
+      {
+        "elbow_angle:": 77.79354818425439
+      },
+      {
+        "spine_angle:": 26.348795591910726
+      },
+      {
+        "head_knee_dist:": 88.58902931213379
+      },
+      {
+        "foot_angle:": 77.67601608206463
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 171,
+    "metrics": [
+      {
+        "elbow_angle:": 77.72597307616569
+      },
+      {
+        "spine_angle:": 26.340142396398225
+      },
+      {
+        "head_knee_dist:": 88.59023094177246
+      },
+      {
+        "foot_angle:": 77.95325810913302
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 172,
+    "metrics": [
+      {
+        "elbow_angle:": 77.76561857674803
+      },
+      {
+        "spine_angle:": 26.328275302859076
+      },
+      {
+        "head_knee_dist:": 88.59134674072266
+      },
+      {
+        "foot_angle:": 78.21112994864042
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 173,
+    "metrics": [
+      {
+        "elbow_angle:": 77.77994976468321
+      },
+      {
+        "spine_angle:": 26.320226627985004
+      },
+      {
+        "head_knee_dist:": 88.6007022857666
+      },
+      {
+        "foot_angle:": 78.35704392416893
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 174,
+    "metrics": [
+      {
+        "elbow_angle:": 77.82494118090789
+      },
+      {
+        "spine_angle:": 26.319690106953104
+      },
+      {
+        "head_knee_dist:": 88.6160659790039
+      },
+      {
+        "foot_angle:": 78.50032435560883
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 175,
+    "metrics": [
+      {
+        "elbow_angle:": 77.8767885704579
+      },
+      {
+        "spine_angle:": 26.3224468035533
+      },
+      {
+        "head_knee_dist:": 88.61795425415039
+      },
+      {
+        "foot_angle:": 78.55383299258291
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 176,
+    "metrics": [
+      {
+        "elbow_angle:": 77.9728800620689
+      },
+      {
+        "spine_angle:": 26.322646869817973
+      },
+      {
+        "head_knee_dist:": 88.6333179473877
+      },
+      {
+        "foot_angle:": 78.5534183621875
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 177,
+    "metrics": [
+      {
+        "elbow_angle:": 78.02145759403624
+      },
+      {
+        "spine_angle:": 26.32258062313426
+      },
+      {
+        "head_knee_dist:": 88.6400556564331
+      },
+      {
+        "foot_angle:": 78.57455724828083
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 178,
+    "metrics": [
+      {
+        "elbow_angle:": 78.05768872991403
+      },
+      {
+        "spine_angle:": 26.32445437376326
+      },
+      {
+        "head_knee_dist:": 88.649582862854
+      },
+      {
+        "foot_angle:": 78.54954261064461
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 179,
+    "metrics": [
+      {
+        "elbow_angle:": 78.04706811903237
+      },
+      {
+        "spine_angle:": 26.321478260162433
+      },
+      {
+        "head_knee_dist:": 88.65091323852539
+      },
+      {
+        "foot_angle:": 78.61772432146886
+      }
+    ],
+    "checks": {
+      "foot_ok": "True",
+      "head_ok": "False",
+      "balance_ok": "False",
+      "elbow_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 180,
+    "metrics": [
+      {
+        "elbow_angle:": 78.03644775057359
+      },
+      {
+        "spine_angle:": 26.320065436182162
+      },
+      {
+        "head_knee_dist:": 88.65074157714844
+      },
+      {
+        "foot_angle:": 78.63467438640171
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 181,
+    "metrics": [
+      {
+        "elbow_angle:": 116.21046646887481
+      },
+      {
+        "spine_angle:": 24.684000804994316
+      },
+      {
+        "head_knee_dist:": 64.95185852050781
+      },
+      {
+        "foot_angle:": 39.87515956348465
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 182,
+    "metrics": [
+      {
+        "elbow_angle:": 118.63130152464197
+      },
+      {
+        "spine_angle:": 23.12294111675318
+      },
+      {
+        "head_knee_dist:": 71.81436538696289
+      },
+      {
+        "foot_angle:": 55.36425470608575
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 183,
+    "metrics": [
+      {
+        "elbow_angle:": 119.8402143997512
+      },
+      {
+        "spine_angle:": 23.330201656327095
+      },
+      {
+        "head_knee_dist:": 76.125168800354
+      },
+      {
+        "foot_angle:": 56.13066129046193
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 184,
+    "metrics": [
+      {
+        "elbow_angle:": 121.67342791117589
+      },
+      {
+        "spine_angle:": 24.07285455571015
+      },
+      {
+        "head_knee_dist:": 72.95655727386475
+      },
+      {
+        "foot_angle:": 54.35078145454799
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 185,
+    "metrics": [
+      {
+        "elbow_angle:": 127.23292841365664
+      },
+      {
+        "spine_angle:": 24.243213083701846
+      },
+      {
+        "head_knee_dist:": 76.53947353363037
+      },
+      {
+        "foot_angle:": 57.96009477537365
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 186,
+    "metrics": [
+      {
+        "elbow_angle:": 119.49654232015837
+      },
+      {
+        "spine_angle:": 24.407071501307012
+      },
+      {
+        "head_knee_dist:": 78.17991256713867
+      },
+      {
+        "foot_angle:": 68.73408347744717
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 187,
+    "metrics": [
+      {
+        "elbow_angle:": 128.94797527473318
+      },
+      {
+        "spine_angle:": 24.534818606413783
+      },
+      {
+        "head_knee_dist:": 80.33846855163574
+      },
+      {
+        "foot_angle:": 69.39222020911961
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 188,
+    "metrics": [
+      {
+        "elbow_angle:": 131.85277409363795
+      },
+      {
+        "spine_angle:": 24.05950927132068
+      },
+      {
+        "head_knee_dist:": 78.83286952972412
+      },
+      {
+        "foot_angle:": 60.250396221182534
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 189,
+    "metrics": [
+      {
+        "elbow_angle:": 134.91892774790574
+      },
+      {
+        "spine_angle:": 23.917594037704678
+      },
+      {
+        "head_knee_dist:": 80.58424472808838
+      },
+      {
+        "foot_angle:": 61.61449497200659
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 190,
+    "metrics": [
+      {
+        "elbow_angle:": 132.11535404951402
+      },
+      {
+        "spine_angle:": 23.822654685171173
+      },
+      {
+        "head_knee_dist:": 79.63663101196289
+      },
+      {
+        "foot_angle:": 60.94631836610038
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 191,
+    "metrics": [
+      {
+        "elbow_angle:": 130.35942333322222
+      },
+      {
+        "spine_angle:": 23.82296274972743
+      },
+      {
+        "head_knee_dist:": 79.09576892852783
+      },
+      {
+        "foot_angle:": 61.53386932007448
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 192,
+    "metrics": [
+      {
+        "elbow_angle:": 130.04368996384576
+      },
+      {
+        "spine_angle:": 23.78607524601428
+      },
+      {
+        "head_knee_dist:": 79.04963493347168
+      },
+      {
+        "foot_angle:": 62.25962857987482
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 193,
+    "metrics": [
+      {
+        "elbow_angle:": 130.31978393297666
+      },
+      {
+        "spine_angle:": 23.745381235285414
+      },
+      {
+        "head_knee_dist:": 79.20782089233398
+      },
+      {
+        "foot_angle:": 62.16234332867904
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 194,
+    "metrics": [
+      {
+        "elbow_angle:": 130.18936595240706
+      },
+      {
+        "spine_angle:": 23.687324855826844
+      },
+      {
+        "head_knee_dist:": 79.23120975494385
+      },
+      {
+        "foot_angle:": 62.03769549124296
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 195,
+    "metrics": [
+      {
+        "elbow_angle:": 130.27183063501306
+      },
+      {
+        "spine_angle:": 23.652593851724706
+      },
+      {
+        "head_knee_dist:": 79.27459716796875
+      },
+      {
+        "foot_angle:": 62.29427696202637
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 196,
+    "metrics": [
+      {
+        "elbow_angle:": 130.4230171387157
+      },
+      {
+        "spine_angle:": 23.609732381986486
+      },
+      {
+        "head_knee_dist:": 79.39081192016602
+      },
+      {
+        "foot_angle:": 62.93380020978037
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 197,
+    "metrics": [
+      {
+        "elbow_angle:": 130.34727264590842
+      },
+      {
+        "spine_angle:": 23.573264525312606
+      },
+      {
+        "head_knee_dist:": 79.47183609008789
+      },
+      {
+        "foot_angle:": 63.59900404928532
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 198,
+    "metrics": [
+      {
+        "elbow_angle:": 130.28519406827112
+      },
+      {
+        "spine_angle:": 23.540675299758558
+      },
+      {
+        "head_knee_dist:": 79.40639019012451
+      },
+      {
+        "foot_angle:": 64.05880210175027
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 199,
+    "metrics": [
+      {
+        "elbow_angle:": 130.07325316799898
+      },
+      {
+        "spine_angle:": 23.525400449174118
+      },
+      {
+        "head_knee_dist:": 79.36574935913086
+      },
+      {
+        "foot_angle:": 64.66925350857262
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 200,
+    "metrics": [
+      {
+        "elbow_angle:": 129.93726090296204
+      },
+      {
+        "spine_angle:": 23.503769404163062
+      },
+      {
+        "head_knee_dist:": 79.34656620025635
+      },
+      {
+        "foot_angle:": 65.03477846572538
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 201,
+    "metrics": [
+      {
+        "elbow_angle:": 129.89720011623928
+      },
+      {
+        "spine_angle:": 23.47078204460854
+      },
+      {
+        "head_knee_dist:": 79.33472156524658
+      },
+      {
+        "foot_angle:": 65.16679735319937
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 202,
+    "metrics": [
+      {
+        "elbow_angle:": 129.88704296935612
+      },
+      {
+        "spine_angle:": 23.435450808245683
+      },
+      {
+        "head_knee_dist:": 79.2770004272461
+      },
+      {
+        "foot_angle:": 65.48041285678225
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 203,
+    "metrics": [
+      {
+        "elbow_angle:": 129.9682087649469
+      },
+      {
+        "spine_angle:": 23.406251418862837
+      },
+      {
+        "head_knee_dist:": 79.29120540618896
+      },
+      {
+        "foot_angle:": 66.02661982522811
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 204,
+    "metrics": [
+      {
+        "elbow_angle:": 129.90844322621285
+      },
+      {
+        "spine_angle:": 23.378073968947103
+      },
+      {
+        "head_knee_dist:": 79.29562568664551
+      },
+      {
+        "foot_angle:": 66.55329400101171
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 205,
+    "metrics": [
+      {
+        "elbow_angle:": 129.84417779908043
+      },
+      {
+        "spine_angle:": 23.322007926268142
+      },
+      {
+        "head_knee_dist:": 79.29275035858154
+      },
+      {
+        "foot_angle:": 67.00754858586684
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 206,
+    "metrics": [
+      {
+        "elbow_angle:": 129.8220350332999
+      },
+      {
+        "spine_angle:": 23.297683026738575
+      },
+      {
+        "head_knee_dist:": 79.19670581817627
+      },
+      {
+        "foot_angle:": 67.02624621511653
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 207,
+    "metrics": [
+      {
+        "elbow_angle:": 129.78776883049656
+      },
+      {
+        "spine_angle:": 23.278758350204917
+      },
+      {
+        "head_knee_dist:": 79.20091152191162
+      },
+      {
+        "foot_angle:": 66.92560543361266
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 208,
+    "metrics": [
+      {
+        "elbow_angle:": 129.78226897864252
+      },
+      {
+        "spine_angle:": 23.26206607103719
+      },
+      {
+        "head_knee_dist:": 79.17280197143555
+      },
+      {
+        "foot_angle:": 66.87926717039973
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 209,
+    "metrics": [
+      {
+        "elbow_angle:": 129.7842901114785
+      },
+      {
+        "spine_angle:": 23.242796827213592
+      },
+      {
+        "head_knee_dist:": 79.17164325714111
+      },
+      {
+        "foot_angle:": 66.81314919205795
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 210,
+    "metrics": [
+      {
+        "elbow_angle:": 129.78885546003934
+      },
+      {
+        "spine_angle:": 23.226626642456996
+      },
+      {
+        "head_knee_dist:": 79.1628885269165
+      },
+      {
+        "foot_angle:": 66.66082967098882
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 211,
+    "metrics": [
+      {
+        "elbow_angle:": 129.78885597632097
+      },
+      {
+        "spine_angle:": 23.21283730430005
+      },
+      {
+        "head_knee_dist:": 79.15087223052979
+      },
+      {
+        "foot_angle:": 66.5355374804632
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 212,
+    "metrics": [
+      {
+        "elbow_angle:": 129.7960967423063
+      },
+      {
+        "spine_angle:": 23.20332586175424
+      },
+      {
+        "head_knee_dist:": 79.25240993499756
+      },
+      {
+        "foot_angle:": 66.36274427842233
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 213,
+    "metrics": [
+      {
+        "elbow_angle:": 129.81297135125865
+      },
+      {
+        "spine_angle:": 23.18863608794231
+      },
+      {
+        "head_knee_dist:": 79.3073844909668
+      },
+      {
+        "foot_angle:": 66.23310766654642
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 214,
+    "metrics": [
+      {
+        "elbow_angle:": 129.85421988739182
+      },
+      {
+        "spine_angle:": 23.181356335365805
+      },
+      {
+        "head_knee_dist:": 79.34060096740723
+      },
+      {
+        "foot_angle:": 66.07133896779476
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 215,
+    "metrics": [
+      {
+        "elbow_angle:": 129.88623146710196
+      },
+      {
+        "spine_angle:": 23.170707254588837
+      },
+      {
+        "head_knee_dist:": 79.36102867126465
+      },
+      {
+        "foot_angle:": 65.95984972404096
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 216,
+    "metrics": [
+      {
+        "elbow_angle:": 129.9058828544262
+      },
+      {
+        "spine_angle:": 23.162231534069754
+      },
+      {
+        "head_knee_dist:": 79.4108533859253
+      },
+      {
+        "foot_angle:": 65.83268741085529
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 217,
+    "metrics": [
+      {
+        "elbow_angle:": 129.90652057889594
+      },
+      {
+        "spine_angle:": 23.123418270354602
+      },
+      {
+        "head_knee_dist:": 79.41385746002197
+      },
+      {
+        "foot_angle:": 65.64176009599436
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 218,
+    "metrics": [
+      {
+        "elbow_angle:": 129.9033409093046
+      },
+      {
+        "spine_angle:": 23.110613921910257
+      },
+      {
+        "head_knee_dist:": 79.41733360290527
+      },
+      {
+        "foot_angle:": 65.53865046205543
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 219,
+    "metrics": [
+      {
+        "elbow_angle:": 129.88853062198675
+      },
+      {
+        "spine_angle:": 23.09973056249899
+      },
+      {
+        "head_knee_dist:": 79.42068099975586
+      },
+      {
+        "foot_angle:": 65.55363280941063
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 220,
+    "metrics": [
+      {
+        "elbow_angle:": 129.87200629444766
+      },
+      {
+        "spine_angle:": 23.09455964405597
+      },
+      {
+        "head_knee_dist:": 79.3996524810791
+      },
+      {
+        "foot_angle:": 65.2714083928249
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 221,
+    "metrics": [
+      {
+        "elbow_angle:": 129.86332934117942
+      },
+      {
+        "spine_angle:": 23.08490082794219
+      },
+      {
+        "head_knee_dist:": 79.39162731170654
+      },
+      {
+        "foot_angle:": 64.95824513830581
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 222,
+    "metrics": [
+      {
+        "elbow_angle:": 129.86232097455837
+      },
+      {
+        "spine_angle:": 23.079017534459755
+      },
+      {
+        "head_knee_dist:": 79.3606424331665
+      },
+      {
+        "foot_angle:": 64.54276393258131
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 223,
+    "metrics": [
+      {
+        "elbow_angle:": 129.85995650023273
+      },
+      {
+        "spine_angle:": 23.06860470860497
+      },
+      {
+        "head_knee_dist:": 79.25309658050537
+      },
+      {
+        "foot_angle:": 64.20561559441755
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 224,
+    "metrics": [
+      {
+        "elbow_angle:": 129.84465115351134
+      },
+      {
+        "spine_angle:": 23.0641980942758
+      },
+      {
+        "head_knee_dist:": 79.1689395904541
+      },
+      {
+        "foot_angle:": 63.89841211779205
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 225,
+    "metrics": [
+      {
+        "elbow_angle:": 129.83204851024436
+      },
+      {
+        "spine_angle:": 23.05825106342143
+      },
+      {
+        "head_knee_dist:": 79.05697345733643
+      },
+      {
+        "foot_angle:": 63.773409380034295
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 226,
+    "metrics": [
+      {
+        "elbow_angle:": 129.82365288487588
+      },
+      {
+        "spine_angle:": 23.052329546543177
+      },
+      {
+        "head_knee_dist:": 78.94509315490723
+      },
+      {
+        "foot_angle:": 63.630281171081684
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 227,
+    "metrics": [
+      {
+        "elbow_angle:": 129.81912854605542
+      },
+      {
+        "spine_angle:": 23.049727318559835
+      },
+      {
+        "head_knee_dist:": 78.76072883605957
+      },
+      {
+        "foot_angle:": 63.53607892684241
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 228,
+    "metrics": [
+      {
+        "elbow_angle:": 129.81535027305895
+      },
+      {
+        "spine_angle:": 23.046808732960766
+      },
+      {
+        "head_knee_dist:": 78.64777565002441
+      },
+      {
+        "foot_angle:": 63.40807072034556
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 229,
+    "metrics": [
+      {
+        "elbow_angle:": 129.81467458205196
+      },
+      {
+        "spine_angle:": 23.046234697970533
+      },
+      {
+        "head_knee_dist:": 78.58022689819336
+      },
+      {
+        "foot_angle:": 63.07152299042619
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 230,
+    "metrics": [
+      {
+        "elbow_angle:": 129.81960844147395
+      },
+      {
+        "spine_angle:": 23.036783412135566
+      },
+      {
+        "head_knee_dist:": 78.3171558380127
+      },
+      {
+        "foot_angle:": 62.86395788566637
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 231,
+    "metrics": [
+      {
+        "elbow_angle:": 129.81508536606935
+      },
+      {
+        "spine_angle:": 23.031976181337104
+      },
+      {
+        "head_knee_dist:": 78.29308032989502
+      },
+      {
+        "foot_angle:": 62.855860910040505
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 232,
+    "metrics": [
+      {
+        "elbow_angle:": 129.79953838162658
+      },
+      {
+        "spine_angle:": 23.028056061687412
+      },
+      {
+        "head_knee_dist:": 78.2312822341919
+      },
+      {
+        "foot_angle:": 63.006715770597246
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 233,
+    "metrics": [
+      {
+        "elbow_angle:": 129.79183991591944
+      },
+      {
+        "spine_angle:": 23.023342923803064
+      },
+      {
+        "head_knee_dist:": 78.14150333404541
+      },
+      {
+        "foot_angle:": 62.856571753335025
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 234,
+    "metrics": [
+      {
+        "elbow_angle:": 129.7928991289245
+      },
+      {
+        "spine_angle:": 23.019495364479926
+      },
+      {
+        "head_knee_dist:": 78.06193828582764
+      },
+      {
+        "foot_angle:": 62.72096971228691
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 235,
+    "metrics": [
+      {
+        "elbow_angle:": 129.78815476195257
+      },
+      {
+        "spine_angle:": 23.017748354716723
+      },
+      {
+        "head_knee_dist:": 78.03777694702148
+      },
+      {
+        "foot_angle:": 62.91432086533975
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 236,
+    "metrics": [
+      {
+        "elbow_angle:": 129.77980379015384
+      },
+      {
+        "spine_angle:": 23.016515003992037
+      },
+      {
+        "head_knee_dist:": 77.99477577209473
+      },
+      {
+        "foot_angle:": 62.94376497508021
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 237,
+    "metrics": [
+      {
+        "elbow_angle:": 129.7769514212264
+      },
+      {
+        "spine_angle:": 23.012561275935994
+      },
+      {
+        "head_knee_dist:": 77.9716444015503
+      },
+      {
+        "foot_angle:": 62.96298841536124
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 238,
+    "metrics": [
+      {
+        "elbow_angle:": 129.7518863579748
+      },
+      {
+        "spine_angle:": 23.00983258842722
+      },
+      {
+        "head_knee_dist:": 77.97082901000977
+      },
+      {
+        "foot_angle:": 63.06532522380302
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 239,
+    "metrics": [
+      {
+        "elbow_angle:": 129.72526945674147
+      },
+      {
+        "spine_angle:": 23.008744727077474
+      },
+      {
+        "head_knee_dist:": 77.96979904174805
+      },
+      {
+        "foot_angle:": 63.161243853515124
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 240,
+    "metrics": [
+      {
+        "elbow_angle:": 129.7043393734258
+      },
+      {
+        "spine_angle:": 23.009170151945227
+      },
+      {
+        "head_knee_dist:": 77.96417713165283
+      },
+      {
+        "foot_angle:": 63.12302864052887
+      }
+    ],
+    "checks": {
+      "foot_ok": "True"
+    }
+  },
+  {
+    "frame_idx": 241,
+    "metrics": [
+      {
+        "elbow_angle:": 166.52801892820722
+      },
+      {
+        "spine_angle:": 9.21905090142811
+      },
+      {
+        "head_knee_dist:": 36.66141986846924
+      },
+      {
+        "foot_angle:": 18.420230846514773
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 242,
+    "metrics": [
+      {
+        "elbow_angle:": 177.23220890209598
+      },
+      {
+        "spine_angle:": 1.1433916075029666
+      },
+      {
+        "head_knee_dist:": 39.71527576446533
+      },
+      {
+        "foot_angle:": 10.700833900872034
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 243,
+    "metrics": [
+      {
+        "elbow_angle:": 174.75938948205103
+      },
+      {
+        "spine_angle:": 1.6221493953811645
+      },
+      {
+        "head_knee_dist:": 38.092989921569824
+      },
+      {
+        "foot_angle:": 10.490135669617162
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 244,
+    "metrics": [
+      {
+        "elbow_angle:": 177.12901889027617
+      },
+      {
+        "spine_angle:": 3.103755465551914
+      },
+      {
+        "head_knee_dist:": 39.20677185058594
+      },
+      {
+        "foot_angle:": 12.362479691204744
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 245,
+    "metrics": [
+      {
+        "elbow_angle:": 177.84817199826205
+      },
+      {
+        "spine_angle:": 3.2154835217806856
+      },
+      {
+        "head_knee_dist:": 34.789323806762695
+      },
+      {
+        "foot_angle:": 12.5139227786892
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 246,
+    "metrics": [
+      {
+        "elbow_angle:": 172.0743174156706
+      },
+      {
+        "spine_angle:": 3.26265649729489
+      },
+      {
+        "head_knee_dist:": 33.2859992980957
+      },
+      {
+        "foot_angle:": 11.794885379054431
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 247,
+    "metrics": [
+      {
+        "elbow_angle:": 171.40624466603205
+      },
+      {
+        "spine_angle:": 3.053889254202568
+      },
+      {
+        "head_knee_dist:": 34.112162590026855
+      },
+      {
+        "foot_angle:": 8.500232599039025
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 248,
+    "metrics": [
+      {
+        "elbow_angle:": 171.22755720627214
+      },
+      {
+        "spine_angle:": 3.2175721998633224
+      },
+      {
+        "head_knee_dist:": 33.77154350280762
+      },
+      {
+        "foot_angle:": 7.197995098589898
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 249,
+    "metrics": [
+      {
+        "elbow_angle:": 170.96028146442524
+      },
+      {
+        "spine_angle:": 3.277108117107217
+      },
+      {
+        "head_knee_dist:": 33.67575645446777
+      },
+      {
+        "foot_angle:": 6.597896360929298
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 250,
+    "metrics": [
+      {
+        "elbow_angle:": 175.15201270622623
+      },
+      {
+        "spine_angle:": 3.2839045618904703
+      },
+      {
+        "head_knee_dist:": 33.5667085647583
+      },
+      {
+        "foot_angle:": 6.326160362582645
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 251,
+    "metrics": [
+      {
+        "elbow_angle:": 178.53952224946806
+      },
+      {
+        "spine_angle:": 3.274231288732892
+      },
+      {
+        "head_knee_dist:": 33.47083568572998
+      },
+      {
+        "foot_angle:": 6.132070892288783
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 252,
+    "metrics": [
+      {
+        "elbow_angle:": 178.72929111799704
+      },
+      {
+        "spine_angle:": 3.266758802354695
+      },
+      {
+        "head_knee_dist:": 33.409767150878906
+      },
+      {
+        "foot_angle:": 6.064871613268874
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 253,
+    "metrics": [
+      {
+        "elbow_angle:": 177.6341171242112
+      },
+      {
+        "spine_angle:": 3.2627782109599512
+      },
+      {
+        "head_knee_dist:": 33.25428485870361
+      },
+      {
+        "foot_angle:": 5.932662746206784
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 254,
+    "metrics": [
+      {
+        "elbow_angle:": 177.01694679407854
+      },
+      {
+        "spine_angle:": 3.2643983025366192
+      },
+      {
+        "head_knee_dist:": 33.14008712768555
+      },
+      {
+        "foot_angle:": 6.335525952157387
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 255,
+    "metrics": [
+      {
+        "elbow_angle:": 177.23038658235907
+      },
+      {
+        "spine_angle:": 3.2376732830978496
+      },
+      {
+        "head_knee_dist:": 32.92954444885254
+      },
+      {
+        "foot_angle:": 5.990692754519874
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 256,
+    "metrics": [
+      {
+        "elbow_angle:": 177.69224877775034
+      },
+      {
+        "spine_angle:": 3.211049178620036
+      },
+      {
+        "head_knee_dist:": 32.69522666931152
+      },
+      {
+        "foot_angle:": 5.875092263947484
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 257,
+    "metrics": [
+      {
+        "elbow_angle:": 178.13087583519854
+      },
+      {
+        "spine_angle:": 3.1855073752443803
+      },
+      {
+        "head_knee_dist:": 32.4501371383667
+      },
+      {
+        "foot_angle:": 5.915072699678207
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 258,
+    "metrics": [
+      {
+        "elbow_angle:": 178.55418429135145
+      },
+      {
+        "spine_angle:": 3.158212705888698
+      },
+      {
+        "head_knee_dist:": 32.34392166137695
+      },
+      {
+        "foot_angle:": 5.986345265524421
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 259,
+    "metrics": [
+      {
+        "elbow_angle:": 179.12833096589975
+      },
+      {
+        "spine_angle:": 3.1462223428083362
+      },
+      {
+        "head_knee_dist:": 32.24693298339844
+      },
+      {
+        "foot_angle:": 6.027483618961868
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 260,
+    "metrics": [
+      {
+        "elbow_angle:": 179.70967094926615
+      },
+      {
+        "spine_angle:": 3.1406244525879763
+      },
+      {
+        "head_knee_dist:": 32.19200134277344
+      },
+      {
+        "foot_angle:": 6.164839794090905
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 261,
+    "metrics": [
+      {
+        "elbow_angle:": 179.93513640981973
+      },
+      {
+        "spine_angle:": 3.1330467862898317
+      },
+      {
+        "head_knee_dist:": 32.120118141174316
+      },
+      {
+        "foot_angle:": 6.502000452113503
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 262,
+    "metrics": [
+      {
+        "elbow_angle:": 179.6845605142339
+      },
+      {
+        "spine_angle:": 3.1288590784739205
+      },
+      {
+        "head_knee_dist:": 32.097201347351074
+      },
+      {
+        "foot_angle:": 6.954947020109318
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 263,
+    "metrics": [
+      {
+        "elbow_angle:": 179.52096976275055
+      },
+      {
+        "spine_angle:": 3.1350197685429966
+      },
+      {
+        "head_knee_dist:": 32.06488609313965
+      },
+      {
+        "foot_angle:": 7.306713849420918
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 264,
+    "metrics": [
+      {
+        "elbow_angle:": 179.4056972953627
+      },
+      {
+        "spine_angle:": 3.14141707692133
+      },
+      {
+        "head_knee_dist:": 32.07703113555908
+      },
+      {
+        "foot_angle:": 7.548747522710607
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 265,
+    "metrics": [
+      {
+        "elbow_angle:": 179.31941076743416
+      },
+      {
+        "spine_angle:": 3.1429054410884785
+      },
+      {
+        "head_knee_dist:": 32.07376956939697
+      },
+      {
+        "foot_angle:": 7.731562922181209
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 266,
+    "metrics": [
+      {
+        "elbow_angle:": 179.32215955836003
+      },
+      {
+        "spine_angle:": 3.146123114075159
+      },
+      {
+        "head_knee_dist:": 32.06780433654785
+      },
+      {
+        "foot_angle:": 7.8905312884859935
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 267,
+    "metrics": [
+      {
+        "elbow_angle:": 179.25093318202877
+      },
+      {
+        "spine_angle:": 3.14668613398218
+      },
+      {
+        "head_knee_dist:": 32.068705558776855
+      },
+      {
+        "foot_angle:": 8.055454100373137
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 268,
+    "metrics": [
+      {
+        "elbow_angle:": 179.24938472909983
+      },
+      {
+        "spine_angle:": 3.146904497128448
+      },
+      {
+        "head_knee_dist:": 32.067933082580566
+      },
+      {
+        "foot_angle:": 8.14433334807949
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 269,
+    "metrics": [
+      {
+        "elbow_angle:": 179.2851811129409
+      },
+      {
+        "spine_angle:": 3.146523716779971
+      },
+      {
+        "head_knee_dist:": 32.07012176513672
+      },
+      {
+        "foot_angle:": 8.263823112021822
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 270,
+    "metrics": [
+      {
+        "elbow_angle:": 179.28075483621035
+      },
+      {
+        "spine_angle:": 3.146620619768026
+      },
+      {
+        "head_knee_dist:": 32.072181701660156
+      },
+      {
+        "foot_angle:": 9.503390472081657
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 271,
+    "metrics": [
+      {
+        "elbow_angle:": 179.29754659904663
+      },
+      {
+        "spine_angle:": 3.147756184336773
+      },
+      {
+        "head_knee_dist:": 32.07758903503418
+      },
+      {
+        "foot_angle:": 10.238855750665852
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 272,
+    "metrics": [
+      {
+        "elbow_angle:": 179.26182781610265
+      },
+      {
+        "spine_angle:": 3.146126454931413
+      },
+      {
+        "head_knee_dist:": 32.08986282348633
+      },
+      {
+        "foot_angle:": 10.18872329228923
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 273,
+    "metrics": [
+      {
+        "elbow_angle:": 179.21660426041976
+      },
+      {
+        "spine_angle:": 3.140819931236578
+      },
+      {
+        "head_knee_dist:": 32.094926834106445
+      },
+      {
+        "foot_angle:": 10.132377495632706
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 274,
+    "metrics": [
+      {
+        "elbow_angle:": 179.1071891531034
+      },
+      {
+        "spine_angle:": 3.1395659739366946
+      },
+      {
+        "head_knee_dist:": 32.095699310302734
+      },
+      {
+        "foot_angle:": 10.126510336854508
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 275,
+    "metrics": [
+      {
+        "elbow_angle:": 178.9605290661941
+      },
+      {
+        "spine_angle:": 3.139856332119255
+      },
+      {
+        "head_knee_dist:": 32.09428310394287
+      },
+      {
+        "foot_angle:": 10.101679784805382
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 276,
+    "metrics": [
+      {
+        "elbow_angle:": 178.9061420202923
+      },
+      {
+        "spine_angle:": 3.1405178497063577
+      },
+      {
+        "head_knee_dist:": 32.09303855895996
+      },
+      {
+        "foot_angle:": 10.090278494026686
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 277,
+    "metrics": [
+      {
+        "elbow_angle:": 175.22081474116376
+      },
+      {
+        "spine_angle:": 3.1383729463204797
+      },
+      {
+        "head_knee_dist:": 32.08806037902832
+      },
+      {
+        "foot_angle:": 10.06735328145897
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 278,
+    "metrics": [
+      {
+        "elbow_angle:": 173.5673796066025
+      },
+      {
+        "spine_angle:": 3.1361026463954387
+      },
+      {
+        "head_knee_dist:": 32.08604335784912
+      },
+      {
+        "foot_angle:": 10.087121137432279
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 279,
+    "metrics": [
+      {
+        "elbow_angle:": 174.25767029430602
+      },
+      {
+        "spine_angle:": 3.136522058229937
+      },
+      {
+        "head_knee_dist:": 32.0835542678833
+      },
+      {
+        "foot_angle:": 10.101554144348796
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 280,
+    "metrics": [
+      {
+        "elbow_angle:": 174.7088938896645
+      },
+      {
+        "spine_angle:": 3.1367862849169628
+      },
+      {
+        "head_knee_dist:": 32.07986354827881
+      },
+      {
+        "foot_angle:": 10.107630954300626
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 281,
+    "metrics": [
+      {
+        "elbow_angle:": 174.98881600472225
+      },
+      {
+        "spine_angle:": 3.136533043388069
+      },
+      {
+        "head_knee_dist:": 32.079477310180664
+      },
+      {
+        "foot_angle:": 10.11260766762917
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 282,
+    "metrics": [
+      {
+        "elbow_angle:": 175.1813320688077
+      },
+      {
+        "spine_angle:": 3.135401107437105
+      },
+      {
+        "head_knee_dist:": 32.083683013916016
+      },
+      {
+        "foot_angle:": 10.119780741391248
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 283,
+    "metrics": [
+      {
+        "elbow_angle:": 175.2941985948708
+      },
+      {
+        "spine_angle:": 3.1347593505909255
+      },
+      {
+        "head_knee_dist:": 32.090206146240234
+      },
+      {
+        "foot_angle:": 10.136553381906573
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 284,
+    "metrics": [
+      {
+        "elbow_angle:": 175.40141511250184
+      },
+      {
+        "spine_angle:": 3.1343540407399293
+      },
+      {
+        "head_knee_dist:": 32.1005916595459
+      },
+      {
+        "foot_angle:": 10.14567745153238
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 285,
+    "metrics": [
+      {
+        "elbow_angle:": 175.4820599684378
+      },
+      {
+        "spine_angle:": 3.1331806827485438
+      },
+      {
+        "head_knee_dist:": 32.106385231018066
+      },
+      {
+        "foot_angle:": 11.218573672197127
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 286,
+    "metrics": [
+      {
+        "elbow_angle:": 173.5534801799075
+      },
+      {
+        "spine_angle:": 3.1325435136823714
+      },
+      {
+        "head_knee_dist:": 32.11076259613037
+      },
+      {
+        "foot_angle:": 11.71483219817251
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 287,
+    "metrics": [
+      {
+        "elbow_angle:": 174.0879792576739
+      },
+      {
+        "spine_angle:": 3.1310005803328402
+      },
+      {
+        "head_knee_dist:": 32.11453914642334
+      },
+      {
+        "foot_angle:": 12.090451914273762
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 288,
+    "metrics": [
+      {
+        "elbow_angle:": 174.38923238801934
+      },
+      {
+        "spine_angle:": 3.1279307532783096
+      },
+      {
+        "head_knee_dist:": 32.11771488189697
+      },
+      {
+        "foot_angle:": 12.315290511952597
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 289,
+    "metrics": [
+      {
+        "elbow_angle:": 173.09042759930972
+      },
+      {
+        "spine_angle:": 3.125779816449943
+      },
+      {
+        "head_knee_dist:": 32.12076187133789
+      },
+      {
+        "foot_angle:": 12.44371915035681
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 290,
+    "metrics": [
+      {
+        "elbow_angle:": 172.2174629703907
+      },
+      {
+        "spine_angle:": 3.1240197487721386
+      },
+      {
+        "head_knee_dist:": 32.126383781433105
+      },
+      {
+        "foot_angle:": 12.519754894582872
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 291,
+    "metrics": [
+      {
+        "elbow_angle:": 171.58736373612257
+      },
+      {
+        "spine_angle:": 3.1217836473098886
+      },
+      {
+        "head_knee_dist:": 32.137627601623535
+      },
+      {
+        "foot_angle:": 12.598888943787244
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 292,
+    "metrics": [
+      {
+        "elbow_angle:": 171.2261978971954
+      },
+      {
+        "spine_angle:": 3.1196214444607553
+      },
+      {
+        "head_knee_dist:": 32.149600982666016
+      },
+      {
+        "foot_angle:": 12.65576676119971
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 293,
+    "metrics": [
+      {
+        "elbow_angle:": 172.52574812946176
+      },
+      {
+        "spine_angle:": 3.1186636056941657
+      },
+      {
+        "head_knee_dist:": 32.16517925262451
+      },
+      {
+        "foot_angle:": 12.699137136085017
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 294,
+    "metrics": [
+      {
+        "elbow_angle:": 173.48576771561525
+      },
+      {
+        "spine_angle:": 3.117267442432283
+      },
+      {
+        "head_knee_dist:": 32.18273162841797
+      },
+      {
+        "foot_angle:": 12.747709512792655
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 295,
+    "metrics": [
+      {
+        "elbow_angle:": 174.20218296740347
+      },
+      {
+        "spine_angle:": 3.115742082562997
+      },
+      {
+        "head_knee_dist:": 32.19676494598389
+      },
+      {
+        "foot_angle:": 12.770680978550603
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 296,
+    "metrics": [
+      {
+        "elbow_angle:": 174.73146876567242
+      },
+      {
+        "spine_angle:": 3.114042451919138
+      },
+      {
+        "head_knee_dist:": 32.212042808532715
+      },
+      {
+        "foot_angle:": 12.805629978107909
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 297,
+    "metrics": [
+      {
+        "elbow_angle:": 175.11293879343592
+      },
+      {
+        "spine_angle:": 3.1128191346506076
+      },
+      {
+        "head_knee_dist:": 32.2208833694458
+      },
+      {
+        "foot_angle:": 12.823619219360474
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 298,
+    "metrics": [
+      {
+        "elbow_angle:": 175.3420360825177
+      },
+      {
+        "spine_angle:": 3.1112493588861585
+      },
+      {
+        "head_knee_dist:": 32.23165512084961
+      },
+      {
+        "foot_angle:": 12.835279833942296
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 299,
+    "metrics": [
+      {
+        "elbow_angle:": 175.50435804496513
+      },
+      {
+        "spine_angle:": 3.1100822773551138
+      },
+      {
+        "head_knee_dist:": 32.242469787597656
+      },
+      {
+        "foot_angle:": 12.84299836146711
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  },
+  {
+    "frame_idx": 300,
+    "metrics": [
+      {
+        "elbow_angle:": 175.5951719799335
+      },
+      {
+        "spine_angle:": 3.1072794575801463
+      },
+      {
+        "head_knee_dist:": 32.25169658660889
+      },
+      {
+        "foot_angle:": 12.844149472570269
+      }
+    ],
+    "checks": {
+      "foot_ok": "False"
+    }
+  }
+]
