@@ -7,7 +7,9 @@
 
 A computer vision application that analyzes cricket cover drive technique using pose estimation and provides detailed feedback on the player's form.
 mediapi
-![Alt text](pose_tracking_full_body_landmarks.png)
+
+
+
 
 ## Run the file
 
@@ -59,7 +61,7 @@ mediapi
 4. View the output in the `output` directory
 
 ## 📊 Workflow
-
+![Alt text](pose_tracking_full_body_landmarks.png)
 1. **Video Input**: The system reads the input video file
 2. **Pose Estimation**: MediaPipe processes each frame to detect body landmarks
 3. **Metric Calculation**: Key metrics are calculated for each frame:
@@ -116,4 +118,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - OpenCV for computer vision capabilities
 - All contributors who helped improve this project
 #
+
 
