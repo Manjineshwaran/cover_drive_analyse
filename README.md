@@ -7,6 +7,7 @@
 
 A computer vision application that analyzes cricket cover drive technique using pose estimation and provides detailed feedback on the player's form.
 mediapi
+![Alt text](pose_tracking_full_body_landmarks.png)
 
 ## Run the file
 
